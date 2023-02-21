@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DownloadManager</string>
+    <string name="no_images">No images are downloaded yet.</string>
+    <string name="title_list_images">Below are the list of download item URLs</string>
+</resources>
