@@ -30,7 +30,7 @@ Tech Stack Used:
 
 # Additional features I would like to add:
 
-1. Add UI tests in jetpack compose.[Still Learning]
+1. Add UI tests in jetpack compose.
 2. List of ImageUrls via Pagination.
 3. Improve the UI with adding more animations.
 
